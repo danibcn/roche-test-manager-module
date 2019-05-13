@@ -1,0 +1,10 @@
+gnores
+\.DS_Store
+\.idea
+\.classpath
+\.project
+\.settings
+\.metadata/
+Servers/
+target/
+
